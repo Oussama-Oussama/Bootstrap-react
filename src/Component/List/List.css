@@ -1,0 +1,23 @@
+#list {
+  position: absolute;
+  top: 100px;
+  right: 0;
+  width: 80%;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#list p {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+#btn {
+  padding: 8px 10px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 6px;
+}
