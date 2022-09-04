@@ -8,8 +8,10 @@
   min-height: 100vh;
   height: auto;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(75, 70, 70, 0.733);
-  padding: 50px 0;
+  gap: 20px;
+  background: radial-gradient(15% 20% ,circle #f5f50a #fff);
+  font-family: 'Courier New', Courier, monospace;
 }
